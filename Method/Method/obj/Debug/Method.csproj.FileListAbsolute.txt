@@ -1,0 +1,6 @@
+E:\P315\Method\Method\bin\Debug\Method.exe.config
+E:\P315\Method\Method\bin\Debug\Method.exe
+E:\P315\Method\Method\bin\Debug\Method.pdb
+E:\P315\Method\Method\obj\Debug\Method.csprojAssemblyReference.cache
+E:\P315\Method\Method\obj\Debug\Method.exe
+E:\P315\Method\Method\obj\Debug\Method.pdb
